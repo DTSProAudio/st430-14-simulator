@@ -1,0 +1,6 @@
+[submodule "lib/asdcplib"]
+	path = lib/asdcplib
+	url = https://github.com/cinecert/asdcplib.git
+[submodule "lib/tinyxml"]
+	path = lib/tinyxml
+	url = https://git.code.sf.net/p/tinyxml/git
